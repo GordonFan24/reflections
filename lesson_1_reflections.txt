@@ -1,0 +1,13 @@
+Debugging using diff -u on mac is great
+it is an easy way to see changes in a file.
+this helps with debugging code more quickly.
+
+If I can easily access old versions and revision history
+it would make me a better programmer because I could learn
+from past mistakes, understand my prior thought process,
+and also be able to step back to a prior version if necessary.
+
+How might using version control make you more confident to make changes that could break something? Because you know you can always revert back to a prior commit and find any bugs that you may have introduced.
+
+What happens when you initialize a repository? Why do you need to do it? 
+When you initialize a repository it sets up version control tracking. You need to do this to start version control.
