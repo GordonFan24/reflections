@@ -1,1 +1,6 @@
 oops, I was typing all my reflections on lesson one. I'll fix that going forward.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area allows you to set up the repository with files that you want to track. This gives finer control over what gets committed and what does not.
