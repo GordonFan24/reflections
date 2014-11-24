@@ -9,3 +9,14 @@ the staging area allows you to set up the repository with files that you want to
 How can you use the staging area to make sure you have one commit per logical change?
 
 The staging area can tell you the difference between your working directory and what is in the staging area. You can see logical changes and decide what to commit.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help you to keep working or good versions separate from new or different versions.
+
+How do the diagrams help you visualize the branch structure?
+	The diagrams help visualize the detached head message. I can now see that it's like a path that can only go one way. You can't go upstream then turn around and go back downstream in a branch.
+
+ What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+ 	the pros are that it does the work for you and combines code really easlily. the cons are when you have to do manual merges, but then again it could be considered a pro because you wouldn't want Git to guess at the merges
